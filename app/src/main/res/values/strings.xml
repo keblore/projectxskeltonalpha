@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project-X Skelton Alpha</string>
+    <string name="account_details">credentials</string>
+    <string name="res_account_name">accountName</string>
+    <string name="res_incoming_num">incoming_number</string>
+    <string name="feature_state">featureState</string>
+    <string name="res_enabled">enabled</string>
+</resources>
